@@ -1,0 +1,11 @@
+C:\Projects\GitLab\Mentoria\ConceitosOO\ConceitosOO\bin\Debug\netcoreapp2.1\ConceitosOO.deps.json
+C:\Projects\GitLab\Mentoria\ConceitosOO\ConceitosOO\bin\Debug\netcoreapp2.1\ConceitosOO.dll
+C:\Projects\GitLab\Mentoria\ConceitosOO\ConceitosOO\bin\Debug\netcoreapp2.1\ConceitosOO.pdb
+C:\Projects\GitLab\Mentoria\ConceitosOO\ConceitosOO\obj\Debug\netcoreapp2.1\ConceitosOO.csprojAssemblyReference.cache
+C:\Projects\GitLab\Mentoria\ConceitosOO\ConceitosOO\obj\Debug\netcoreapp2.1\ConceitosOO.csproj.CoreCompileInputs.cache
+C:\Projects\GitLab\Mentoria\ConceitosOO\ConceitosOO\obj\Debug\netcoreapp2.1\ConceitosOO.AssemblyInfoInputs.cache
+C:\Projects\GitLab\Mentoria\ConceitosOO\ConceitosOO\obj\Debug\netcoreapp2.1\ConceitosOO.AssemblyInfo.cs
+C:\Projects\GitLab\Mentoria\ConceitosOO\ConceitosOO\obj\Debug\netcoreapp2.1\ConceitosOO.dll
+C:\Projects\GitLab\Mentoria\ConceitosOO\ConceitosOO\obj\Debug\netcoreapp2.1\ConceitosOO.pdb
+C:\Projects\GitLab\Mentoria\ConceitosOO\ConceitosOO\bin\Debug\netcoreapp2.1\ConceitosOO.runtimeconfig.json
+C:\Projects\GitLab\Mentoria\ConceitosOO\ConceitosOO\bin\Debug\netcoreapp2.1\ConceitosOO.runtimeconfig.dev.json

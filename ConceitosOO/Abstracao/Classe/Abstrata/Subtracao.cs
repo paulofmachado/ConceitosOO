@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ConceitosOO.Abstracao.Classe.Abstrata
+﻿namespace ConceitosOO.Abstracao.Classe.Abstrata
 {
     public class Subtracao : CalculoBase
     {

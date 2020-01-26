@@ -9,11 +9,12 @@ namespace ConceitosOO
     {
         public static void Main(string[] args)
         {
-            new Soma(10, 22).ImprimeResultado();
-
-            new Multiplicacao(5, 5).ImprimeResultado();
-
+            new Soma(3, 2).ImprimeResultado();
+            new Multiplicacao(5, 1).ImprimeResultado();
             new Subtracao(10, 5).ImprimeResultado();
+            new Divisao(10, 2).ImprimeResultado();
+            new Raiz(25, 0).ImprimeResultado();
+            new Potencializacao(5, 2).ImprimeResultado();
 
             // Criar operações (subtração, multiplicação, divisão, raiz, potencial (2 elevado a 3 ).
             // Ler Abstração material impresso.
@@ -21,4 +22,3 @@ namespace ConceitosOO
         }
     }
 }
- 

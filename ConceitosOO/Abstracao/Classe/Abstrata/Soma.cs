@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace ConceitosOO.Abstracao.Classe.Abstrata
+﻿namespace ConceitosOO.Abstracao.Classe.Abstrata
 {
     public class Soma : CalculoBase
     {

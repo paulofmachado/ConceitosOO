@@ -12,10 +12,12 @@ namespace ConceitosOO
             new Soma(10, 22).ImprimeResultado();
 
             new Multiplicacao(5, 5).ImprimeResultado();
-            
+
+            new Subtracao(10, 5).ImprimeResultado();
+
             // Criar operações (subtração, multiplicação, divisão, raiz, potencial (2 elevado a 3 ).
             // Ler Abstração material impresso.
-            
+
         }
     }
 }
